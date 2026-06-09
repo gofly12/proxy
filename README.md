@@ -112,7 +112,7 @@ BoostNet 是目前综合表现较为均衡的机场之一。
 * 每月200GB：¥49/月
 * 每月400GB：¥79/月
 * 年付20GB/月：¥200/年
-
+![BoostNet价格表](images/boostnet价格.png)
 ### 优势
 
 * 支持 ChatGPT
