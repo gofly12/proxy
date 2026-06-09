@@ -47,31 +47,16 @@
 
 ## 机场价格比较（2026 更新）
 
-| 机场名称 | 入门价格 | 月流量 | 
-|----------|----------|----------|
-| 超实惠加速 | ¥15/月 | 400GB | 
-| 飞鸟机场 | ¥15/月 | 100GB | 
-| 极连云 | ¥18/月 | 100GB | 
-| 扬帆云 | ¥19.99/月 | 100GB |
-| BoostNet | ¥49/月 | 200GB | 
-| WgetCloud | ¥99/月（年付） | 专线套餐 | 
-| TAG 机场 | ¥114/月 | 500GB | 
-
+| 机场名称 | 入门价格 | 月流量 | 支持 ChatGPT | 推荐用途 |
+|----------|----------|----------|----------|----------|
+| BoostNet | ¥49/月 | 200GB | ✅ | AI工具、综合使用 |
+| 超实惠加速 | ¥15/月 | 400GB | ✅ | 大流量、性价比 |
+| TAG 机场 | ¥114/月 | 500GB | ✅ | 重度用户 |
+| 飞鸟机场 | ¥15/月 | 100GB | ✅ | 流媒体观看 |
+| 扬帆云 | ¥19.99/月 | 100GB | ✅ | 日常使用 |
+| 极连云 | ¥18/月 | 100GB | ✅ | ChatGPT、Claude |
+| WgetCloud | ¥99/月 | 专线套餐 | ✅ | 商务办公 |
 > 实际价格可能因活动调整，请以官网最新价格为准。
-
----
-
-## 机场对比表
-
-| 机场名称 | 主打特色 | 推荐适用场景 | 官方链接 |
-|----------|----------|-------------|----------|
-| BoostNet | 多地区节点、流媒体解锁 | ChatGPT、AI办公、YouTube 4K | [立即注册](https://999.boostnet1.com/register?code=12WardnD) |
-| 超实惠加速 | 超高性价比、大流量套餐 | 新手用户、长期使用 | [立即注册](https://cshjc.net/register?code=QtmVeuuU) |
-| TAG 机场 | 老牌稳定、全球节点丰富 | 重度用户、跨境办公 | [立即注册](https://tagss.pro/#/auth/iEox9p08) |
-| 飞鸟机场 | 流媒体支持、多地区节点 | Netflix、Disney+ 用户 | [立即注册](https://fbinv02.fbaff.cc/auth/register?code=RpxujfKE) |
-| 扬帆云 | 大流量套餐、节点丰富 | 日常使用、流媒体用户 | [立即注册](https://ml.yfqz1.net/register?code=4LdY1Q20) |
-| 极连云 | IEPL专线、晚高峰稳定 | ChatGPT、Claude 用户 | [立即注册](https://huirsf.jilianat.my/#/?code=0eo1XM9p) |
-| WgetCloud | 高质量专线、企业级线路 | 商务办公、高端用户 | [立即注册](https://invite.wgetcloud.ltd/auth/register?code=YcO3mZ) |
 
 
 ---
