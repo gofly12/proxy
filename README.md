@@ -25,15 +25,15 @@
 
 > 更新时间：2026 年
 
-| 排名 | 机场名称 | 月付价格 | 推荐指数 | 推荐人群 |
+| 排名 | 机场名称 | 月付价格 | 推荐指数 | 官方网站 |
 |------|----------|----------|----------|----------|
-| 🥇 1 | BoostNet | ¥49/月 | ⭐⭐⭐⭐⭐ | 综合用户、AI 办公 |
-| 🥈 2 | 超实惠加速 | ¥15/月 | ⭐⭐⭐⭐⭐ | 性价比用户、新手用户 |
-| 🥉 3 | 飞鸟机场 | ¥15/月 | ⭐⭐⭐⭐ | 流媒体用户 |
-| 4 | 极连云 | ¥18/月 | ⭐⭐⭐⭐ | ChatGPT 用户 |
-| 5 | TAG 机场 | ¥114/月 | ⭐⭐⭐⭐⭐ | 重度用户、跨境办公 |
-| 6 | 扬帆云 | ¥19.99/月 | ⭐⭐⭐⭐ | 综合用户 |
-| 7 | WgetCloud | ¥99/月（年付） | ⭐⭐⭐⭐⭐ | 商务办公、高端用户 |
+| 🥇 1 | BoostNet | ¥49/月 | ⭐⭐⭐⭐⭐ | [立即注册](https://999.boostnet1.com/register?code=12WardnD) |
+| 🥈 2 | 超实惠加速 | ¥15/月 | ⭐⭐⭐⭐⭐ | [立即注册](https://cshjc.net/register?code=QtmVeuuU) |
+| 🥉 3 | 飞鸟机场 | ¥15/月 | ⭐⭐⭐⭐ | [立即注册](https://fbinv02.fbaff.cc/auth/register?code=RpxujfKE) |
+| 4 | 极连云 | ¥18/月 | ⭐⭐⭐⭐ | [立即注册](https://huirsf.jilianat.my/#/?code=0eo1XM9p) |
+| 5 | TAG 机场 | ¥114/月 | ⭐⭐⭐⭐⭐ | [立即注册](https://tagss.pro/#/auth/iEox9p08) |
+| 6 | 扬帆云 | ¥19.99/月 | ⭐⭐⭐⭐ | [立即注册](https://ml.yfqz1.net/register?code=4LdY1Q20) |
+| 7 | WgetCloud | ¥99/月（年付） | ⭐⭐⭐⭐⭐ | [立即注册](https://invite.wgetcloud.ltd/auth/register?code=YcO3mZ) |
 
 ---
 
@@ -113,9 +113,11 @@ BoostNet 是目前综合表现较为均衡的机场之一。
 * 每月400GB：¥79/月
 * 年付20GB/月：¥200/年
 
-[![BoostNet价格表](images/boostnet价格.png)](https://999.boostnet1.com/register?code=12WardnD)
 
 👉 **点击价格表查看 BoostNet 最新套餐与优惠**
+[![BoostNet价格表](images/boostnet价格.png)](https://999.boostnet1.com/register?code=12WardnD)
+
+
 
 
 
