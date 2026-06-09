@@ -113,7 +113,12 @@ BoostNet 是目前综合表现较为均衡的机场之一。
 * 每月400GB：¥79/月
 * 年付20GB/月：¥200/年
 
-![BoostNet价格表](images/boostnet价格.png)
+[![BoostNet价格表](images/boostnet价格.png)](https://999.boostnet1.com/register?code=12WardnD)
+
+👉 **点击价格表查看 BoostNet 最新套餐与优惠**
+
+
+
 
 
 ### 优势
@@ -159,6 +164,11 @@ BoostNet 是目前综合表现较为均衡的机场之一。
 * Bronze 计划：¥185/年
 * Gold 计划：¥219/月（999GB）
 
+
+[![TAG机场价格表](images/TAG价格.png)](https://tagss.pro/#/auth/iEox9p08)
+
+👉 **点击价格表查看 TAG 机场 最新套餐与优惠**
+
 ### 优势
 
 * 100+国家节点
@@ -182,6 +192,11 @@ BoostNet 是目前综合表现较为均衡的机场之一。
 * LV3：¥39.99/月（400GB）
 * LV4：¥49.99/月（700GB）
 
+
+[![飞鸟机场价格表](images/飛鳥价格.png)](https://fbinv02.fbaff.cc/auth/register?code=RpxujfKE)
+
+👉 **点击价格表查看 飞鸟机场 最新套餐与优惠**
+
 ### 优势
 
 * 全球节点
@@ -201,12 +216,19 @@ BoostNet 是目前综合表现较为均衡的机场之一。
 * 优质专线：¥109/月（年付）
 * 精品专线：¥119/月（年付）
 
+
+[![扬帆云价格表](images/扬帆云价格.png)](https://ml.yfqz1.net/register?code=4LdY1Q20)
+
+👉 **点击价格表查看 扬帆云 最新套餐与优惠**
+
 ### 优势
 
 * AI 专线优化
 * 全球流媒体支持
 * 企业级线路
 * 商务办公推荐
+
+
 
 👉 [立即注册 扬帆云](https://ml.yfqz1.net/register?code=4LdY1Q20)
 
@@ -219,6 +241,9 @@ BoostNet 是目前综合表现较为均衡的机场之一。
 * 基础套餐：¥18/月（100GB）
 * 进阶套餐：¥30.5/月（200GB）
 * 旗舰套餐：¥61/月（500GB）
+
+[![极连云价格表](images/极连云价格.png)](https://huirsf.jilianat.my/#/?code=0eo1XM9p)
+👉 **点击价格表查看 极连云 最新套餐与优惠**
 
 ### 优势
 
@@ -238,6 +263,10 @@ BoostNet 是目前综合表现较为均衡的机场之一。
 * 月付A：¥15/月
 * 月付B：¥21/月
 * 月付C：¥27/月
+
+[![WgetCloud价格表](images/wgetcloud价格.png)](https://invite.wgetcloud.ltd/auth/register?code=YcO3mZ)
+
+👉 **点击价格表查看 WgetCloud 最新套餐与优惠**
 
 ### 优势
 
